@@ -11,7 +11,7 @@ import 'LessonPage.dart';
 import 'MemoriezPage.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatefulWidget {
@@ -45,6 +45,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: DefaultTabController(
         length: 3,
         child: Scaffold(
@@ -52,13 +53,13 @@ class _MyAppState extends State<MyApp> {
             appBar: AppBar(
               backgroundColor: Colors.green,
               centerTitle: true,
-              title: Text("MUALLIMIY SONIY"),
+              title: const Text("MUALLIMI SONIY"),
               bottom: TabBar(
                 indicator: BoxDecoration(
                     borderRadius: BorderRadius.circular(20),
                     color: Colors.white
                 ),
-                tabs: [
+                tabs: const [
                   Tab(child: Text("HARFLAR",style: TextStyle(color: Colors.black),),),
                   Tab(child: Text("QOIDALAR", style: TextStyle(color: Colors.black),),),
                   Tab(child: Text("YODLASH", style: TextStyle(color: Colors.black),),),
@@ -66,7 +67,7 @@ class _MyAppState extends State<MyApp> {
               ),
             ),
             body: ! ready
-                ? Center(
+                ? const Center(
               child: CircularProgressIndicator(),
             )
                 : TabBarView(
@@ -100,7 +101,6 @@ class _MyAppState extends State<MyApp> {
               );
             }
         );
-        break;
       case 2:
         content = "assets/yodlash.json";
         final String jsonContent = await rootBundle.loadString(content);
@@ -118,7 +118,6 @@ class _MyAppState extends State<MyApp> {
               );
             }
         );
-        break;
       default:
         break;
     }

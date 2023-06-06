@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 
@@ -74,7 +73,7 @@ class _LessonPageState extends State<LessonPage> {
                       ?const Icon(Icons.play_arrow)
                           :const Icon(Icons.pause)
                   ),
-                  SizedBox(width: 20,),
+                  const SizedBox(width: 20,),
                   Text("$title  -  ${author}")
                 ],
               ),
@@ -83,14 +82,14 @@ class _LessonPageState extends State<LessonPage> {
               textDirection: TextDirection.rtl,
               child: GridView.builder(
                 shrinkWrap: true,
-                physics: NeverScrollableScrollPhysics(),
+                physics: const NeverScrollableScrollPhysics(),
                 gridDelegate:
-                SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 3),
+                const SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 3),
                 itemCount: widget.group?.id?.length,
                 itemBuilder: (BuildContext context, int index) {
                   return Container(
                     height: 120,
-                    padding: EdgeInsets.all(2),
+                    padding: const EdgeInsets.all(2),
                     child: ElevatedButton(
                       // style: ElevatedButton.styleFrom(backgroundColor: Colors.transparent),
                       onPressed: () async {
@@ -99,7 +98,7 @@ class _LessonPageState extends State<LessonPage> {
                       },
                       child: Text(
                         "${widget.group?.id?[index].toString()}",
-                        style: TextStyle(fontSize: 20),
+                        style: const TextStyle(fontSize: 20),
                       ),
                     ),
                   );

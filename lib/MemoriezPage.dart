@@ -74,23 +74,23 @@ class _MemoriezPageState extends State<MemoriezPage> {
                           : const Icon(
                         Icons.pause_circle,
                       )),
-                  SizedBox(width: 20,),
+                  const SizedBox(width: 20,),
                   Text("$title  -  ${author}")
                 ],
               ),
             ),
-            SizedBox(height: 30,),
+            const SizedBox(height: 30,),
             Text("${widget.res?.heading}"),
             Padding(
               padding: const EdgeInsets.all(30.0),
-              child: Text("${widget.res?.ready}",style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold),),
+              child: Text("${widget.res?.ready}",style: const TextStyle(fontSize: 30,fontWeight: FontWeight.bold),),
             ),
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Directionality(
                 textDirection: TextDirection.rtl,
                 child: Card(
-                  child: InkWell(child: Text("${widget.res?.voice}",style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold),),
+                  child: InkWell(child: Text("${widget.res?.voice}",style: const TextStyle(fontSize: 30,fontWeight: FontWeight.bold),),
                       onTap: () async {
                     await player.setAsset("${widget.res?.mus}");
                     player.play();
