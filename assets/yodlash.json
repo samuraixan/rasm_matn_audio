@@ -1,0 +1,28 @@
+{
+  "res": [
+    {
+      "heading": "TOYYIBA KALIMASI",
+      "ready": "  كَلِمَةٌ طَيِّبَةٌ  ",
+      "voice": " لاٰۤ اِلٰهَ اِلاَّ اللهُ مُحَمَّدٌ رَسُولُ اللهِ   ",
+      "translate": "Ma'nosi: Allohdan o`zga iloh yo`q, Muhammad(sollalohu alayhi vasallam) Allohning elchisidir.",
+      "mus": "assets/audios/kalimalar/1751.aac",
+      "musi": "assets/audios/kalimalar/3333.aac"
+    },
+    {
+      "heading": "SHAHODAT KALIMASI",
+      "ready":  " كَلِمَةُ الشَّهَادَةِ ",
+      "voice": " اَشْهَدُ اَنْ لاٰۤ اِلٰهَ اِلاَّ اللهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُوَرَسُولُهُ  ",
+      "translate": "Ma'nosi:  Allohdan boshqa iloh yo`q, deb guvohlik beraman. Yana Muhammad (sollalohu alayhi vasallam) Allohning bandasi va elchisi ekanligiga guvohlik beraman.",
+      "mus": "assets/audios/kalimalar/1752.aac",
+      "musi": "assets/audios/kalimalar/3333.aac"
+    },
+    {
+      "heading": "TAVHID KALIMASI",
+      "ready": " كَلِمَةُ التَّوْحِيْدِ ",
+      "voice": "اَشْهَدُ اَنْ لاٰۤ اِلٰهَ اِلاَّ اللهُ وَحْدَهُ لاٰۤ شَرِيْكَ لَهُ, لَهُ المُلْكُ وَلَهُالحَمْدُ يُحْيى وَيُمِيْتُ, وَهُوَ حَىٌّ لاٰ يَمُوتُ, بِيَدِهِ الخَيْرُوَهُوَ عَلَى كُلِّ شَىءٍقَدِيْرٌ.",
+      "translate": "Ma'nosi:  Allohdan o‘zga iloh yo‘qligiga, U Zotning yakkayu yagonaligiga va sherigi yo‘qligiga guvohlik beraman. Mulk ham hamdu sano ham Unikidir. Tiriltiradigan ham, o‘ldiradigan ham Udir. U Zot hech qachon o‘lmaydigan doimiy tirikdiir. Yaxshilik(baxt-saodat) Uning izmidadir. U barcha narsaga qodir Zotdir.",
+      "mus": "assets/audios/kalimalar/1753.aac",
+      "musi": "assets/audios/kalimalar/3333.aac"
+    }
+  ]
+}

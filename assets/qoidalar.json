@@ -1,0 +1,17 @@
+{
+  "group": [
+    {"name":"MADLI",
+      "id":[ "اٰ","يِ","و","اٰ" ,"اِى" ,"اُو","بٰا" ,"بِى" ,"بُو","تٰا" ,"تِى" ,"تُو","ثٰا" ,"ثِى" ,"ثُو","جٰا" ,"جِى" ,"جُو","حٰا" ,"حِى" ,"حُو","خٰا" ,"خِى" ,"خُو","دٰا" ,"دِى" ,"دُو","ذٰا" ,"ذِى" ,"ذُو","رٰا" ,"رِى" ,"رُو" ,"زٰا" ,"زِى" ,"زُو" ,"سٰا" ,"سِى" ,"سُو","شٰا" ,"شِى" ,"شُو" ,"صٰا" ,"صِى" ,"صُو" ,"ضٰا" ,"ضِى" ,"ضُو","طٰا" ,"طِى" ,"طُو" ,"ظٰا" ,"ظِى" ,"ظُو" ,"عٰا" ,"عِى" ,"عُو","غٰا" ,"غِى" ,"غُو" ,"فٰا" ,"فِى" ,"فُو" ,"قٰا" ,"قِى" ,"قُو","كٰا" ,"كِى" ,"كُو" ,"لاٰ" ,"لِى" ,"لُو" ,"مٰا" ,"مِى" ,"مُو","كٰا" ,"كِى" ,"كُو" ,"لاٰ" ,"لِى" ,"لُو" ,"مٰا" ,"مِى" ,"مُو","يٰا" ,"يِى" ,"يُو"],
+      "mus": ["assets/audios/madli1/618.aac","assets/audios/madli1/619.aac","assets/audios/madli1/620.aac","assets/audios/madli1/621.aac","assets/audios/madli1/622.aac","assets/audios/madli1/623.aac","assets/audios/madli1/624.aac","assets/audios/madli1/625.aac","assets/audios/madli1/626.aac","assets/audios/madli1/627.aac","assets/audios/madli1/628.aac","assets/audios/madli1/629.aac","assets/audios/madli1/630.aac","assets/audios/madli1/631.aac","assets/audios/madli1/632.aac","assets/audios/madli1/633.aac","assets/audios/madli1/634.aac","assets/audios/madli1/635.aac","assets/audios/madli1/636.aac","assets/audios/madli1/6637.aac","assets/audios/madli1/638.aac"],
+      "musi": "assets/audios/madli1/0388.aac"
+    },
+    {"name":"MADLI","id":["مٰالْ" ,"حٰالْ" ,"نٰارْ" ,"جٰاهْ" ,"شٰامْ" ,"سٰامْ","بٰارِى" ,"عٰالِى" ,"رٰاضِى" ,"قٰاضِي" ,"هٰادِى" ,"حٰالِى","كَلاٰمْ" ,"سَلاٰمْ" ,"حَلاٰلْ" ,"حَرٰامْ" ,"جَلاٰلْ" ,"جَمٰالْ" ,"كَمٰالْ","اِمٰامْ" ,"حِسٰابْ" ,"نِظٰامْ" ,"غُرٰابْ" ,"غُلاٰمْ" ,"غُبٰارْ" ,"تُرٰابْ","اَمْوٰالْ" ,"اَحْوَالْ" ,"اَعْمٰالْ" ,"اَعْلاٰمْ" ,"اَمْوٰاتْ" ,"اَمْرٰاضْ","قَوٰاعِدْ" ,"عَوٰامِلْ" ,"شَوٰاهِدْ" ,"جَوٰاهِرْ" ,"كَوٰكِبْ" ,"مَكٰاتِبْ","اِكْرٰامْ" ,"اِعْلاٰمْ" ,"اِخْلاٰصْ" ,"اِظْهٰارْ" ,"اِصْلاٰحْ" ,"اِفْسادْ","عٰالِمْ" ,"صٰابِرْ" ,"مٰاهِرْ" ,"طٰالِبْ" ,"فٰاتِحْ" ,"صٰالِحْ","قٰامٰا" ,"طٰافٰا" ,"تٰابٰا" ,"قُولِي" ,"طُوفِي" ,"تُوئي"],
+      "mus": ["assets/audios/madli2/786.aac","assets/audios/madli2/787.aac","assets/audios/madli2/788.aac","assets/audios/madli2/789.aac","assets/audios/madli2/790.aac","assets/audios/madli2/791.aac","assets/audios/madli2/792.aac","assets/audios/madli2/793.aac","assets/audios/madli2/794.aac","assets/audios/madli2/795.aac","assets/audios/madli2/796.aac","assets/audios/madli2/797.aac"],
+      "musi": "assets/audios/madli2/0389.aac"
+    },
+    {"name":"MADLI","id":[ "يُقٰالُ" ,"يُطٰافُ" ,"تُتٰابُ" ,"يَقُولُ" ,"تَقُومُ" ,"يَطُوفُ","يَتُوبٰانَ" ,"يَقُولُونَ" ,"تَقُومُونَ" ,"يَطُوفُونَ" ,"تَقُولُونَ","يَنْصُرُونَ" ,"تَدْخُلُونَ" ,"يَعْلَمُونَ" ,"تَعْمَلُونَ","يَشْهَدُونَ" ,"تَضْرِبُونَ" ,"تَرْجِعُونَ" ,"تَجْلِسُونَ","يُكْرِمُونَ" ,"تُسْلِمُونَ" ,"يُخْلِصُونَ" ,"تُكْرِمُونَ","يُنْصَرُونَ" ,"تُضْرَبُونَ" ,"يَجْتَمِعُونَ" ,"تَكْتَسِبُونَ","يَحْتَسِبُونَ" ,"تَسْتَشْهِدُونَ" ,"يَسْتَخْرِجُونَ" ],
+      "mus": ["assets/audios/madli3/842.aac","assets/audios/madli3/843.aac","assets/audios/madli3/844.aac","assets/audios/madli3/845.aac","assets/audios/madli3/846.aac","assets/audios/madli3/847.aac","assets/audios/madli3/848.aac","assets/audios/madli3/849.aac","assets/audios/madli3/850.aac","assets/audios/madli3/851.aac","assets/audios/madli3/852.aac"],
+      "musi": "assets/audios/madli3/0390.aac"
+    }
+  ]
+}
