@@ -1,14 +1,11 @@
 import 'dart:convert';
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
-
 import 'Dars.dart';
 import 'Dars1.dart';
 import 'LessonPage.dart';
 import 'MemoriezPage.dart';
+
 
 void main() {
   runApp(const MyApp());
